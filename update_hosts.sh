@@ -22,4 +22,5 @@ sed -e 's/<.*PRE>//g' | \
 sed -e 's/<\/PRE>//g' | \
 sed -e 's/^</;</g' > hosts.zero.mac
 
-git commit -a -m "Hosts added" && git push
+git add hosts*
+git commit hosts* -m "Hosts added" && git push
