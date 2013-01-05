@@ -9984,6 +9984,119 @@ zyrtec.3.p2l.info A 127.0.0.1
 zyrtec.4.p2l.info A 127.0.0.1 
 ;&lt;/wiki-spam-sites&gt;
 
+;&lt;unister&gt;
+;
+; Rip off sites that belong to the unister network:
+;
+; * http://www.welt.de/wirtschaft/webwelt/article107707228/Die-Machenschaften-des-Abzock-Imperiums-Unister.html
+; * http://www.heise.de/newsticker/meldung/Razzia-bei-Unister-1766435.html
+;
+ab-in-den-urlaub-deals.de 127.0.0.1
+ab-in-den-urlaub.de 127.0.0.1
+affiliate.unister.de 127.0.0.1
+aidu.de 127.0.0.1
+auto.de 127.0.0.1
+auvito.de 127.0.0.1
+best-price.com 127.0.0.1
+billigfluege.de 127.0.0.1
+boersennews.de 127.0.0.1
+dsl.de 127.0.0.1
+fluege.de 127.0.0.1
+fluegevergleichen.net 127.0.0.1
+flug24.de 127.0.0.1
+fly.co.uk 127.0.0.1
+geld.de 127.0.0.1
+holdidaytest.de 127.0.0.1
+holidayreporter.com 127.0.0.1
+holidaytest.de  127.0.0.1
+hotelbuchen24.net 127.0.0.1
+hotelreservierung.de 127.0.0.1
+jux.de 127.0.0.1
+kredit.de 127.0.0.1
+kurz-mal-weg.de 127.0.0.1
+myimmo.de  127.0.0.1
+news.de 127.0.0.1
+partnersuche.de 127.0.0.1
+preisvergleich.de 127.0.0.1
+private-krankenversicherung.de 127.0.0.1
+reisen.de 127.0.0.1
+schuelerprofile.de 127.0.0.1
+shopping.de 127.0.0.1
+travel24.at 127.0.0.1
+travel24.ch 127.0.0.1
+travel24.co.uk  127.0.0.1
+travel24.com 127.0.0.1
+travel24.de 127.0.0.1
+travel24.nl 127.0.0.1
+u-ns.net 127.0.0.1
+unister-media.de 127.0.0.1
+unister-panel.de 127.0.0.1
+unister.de 127.0.0.1
+urlaubstours.de 127.0.0.1
+verbraucherschutz.de 127.0.0.1
+versicherungen.de 127.0.0.1
+veturo.com 127.0.0.1
+vlucht24.nl 127.0.0.1
+vol24.fr 127.0.0.1
+volo24.it 127.0.0.1
+vuelo.es 127.0.0.1
+webcity.de 127.0.0.1
+webmail.de 127.0.0.1
+zanox.com 127.0.0.1
+www.ab-in-den-urlaub-deals.de  127.0.0.1
+www.ab-in-den-urlaub.de 127.0.0.1
+www.affiliate.unister.de 127.0.0.1
+www.aidu.de 127.0.0.1
+www.auto.de 127.0.0.1
+www.auvito.de 127.0.0.1
+www.best-price.com 127.0.0.1
+www.billigfluege.de 127.0.0.1
+www.boersennews.de 127.0.0.1
+www.dsl.de 127.0.0.1
+www.fluege.de 127.0.0.1
+www.fluegevergleichen.net 127.0.0.1
+www.flug24.de 127.0.0.1
+www.fly.co.uk 127.0.0.1
+www.geld.de 127.0.0.1
+www.holdidaytest.de 127.0.0.1
+www.holidayreporter.com 127.0.0.1
+www.holidaytest.de  127.0.0.1
+www.hotelbuchen24.net 127.0.0.1
+www.hotelreservierung.de 127.0.0.1
+www.jux.de 127.0.0.1
+www.kredit.de 127.0.0.1
+www.kurz-mal-weg.de 127.0.0.1
+www.myimmo.de 127.0.0.1
+www.news.de 127.0.0.1
+www.partnersuche.de 127.0.0.1
+www.preisvergleich.de 127.0.0.1
+www.private-krankenversicherung.de 127.0.0.1
+www.reisen.de 127.0.0.1
+www.schuelerprofile.de 127.0.0.1
+www.shopping.de 127.0.0.1
+www.travel24.at 127.0.0.1
+www.travel24.ch 127.0.0.1
+www.travel24.co.uk  127.0.0.1
+www.travel24.com 127.0.0.1
+www.travel24.de 127.0.0.1
+www.travel24.nl 127.0.0.1
+www.u-ns.net 127.0.0.1
+www.unister-media.de 127.0.0.1
+www.unister-panel.de 127.0.0.1
+www.unister.de 127.0.0.1
+www.urlaubstours.de 127.0.0.1
+www.verbraucherschutz.de 127.0.0.1
+www.versicherungen.de 127.0.0.1
+www.veturo.com 127.0.0.1
+www.vlucht24.nl 127.0.0.1
+www.vol24.fr 127.0.0.1
+www.volo24.it 127.0.0.1
+www.vuelo.es 127.0.0.1
+www.webcity.de 127.0.0.1
+www.webmail.de 127.0.0.1
+www.zanox.com 127.0.0.1
+;&lt;/unister&gt;
+
 ; Acknowledgements
 ; I'd like to thank the following people for submitting sites, and
 ; helping promote the site.
