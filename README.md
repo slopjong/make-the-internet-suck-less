@@ -78,3 +78,7 @@ Notes
 * For Macintosh (pre OS X) place it in the Mac System Folder or Preferences folder something like ```HD:System Folder:Preferences:Hosts``` and reboot. Alternatively you can save it elsewhere on your machine, then go to the TCP/IP control panel and click on *Select hosts file* to read it in.
 * To convert the hosts file to a set of Cisco IOS commands for Cisco routers use [Jesse Baird's script](http://jebaird.com/blog/hosts-ip-host-generating-blocked-hosts-host-file-cisco-router)
 
+Other hosts files
+-----------------
+
+* http://winhelp2002.mvps.org/hosts.htm
