@@ -1,7 +1,7 @@
 Make the internet suck less
 ===========================
 
-Block unwanted websites. The provided files [http://someonewhocares.org/hosts/](from http://someonewhocares.org/hosts/)) prevent your computer from connecting to selected internet hosts. This is an easy and effective way to protect you from many types of spyware, reduces bandwidth use, blocks certain pop-up traps, prevents user tracking by way of "web bugs" embedded in spam, provides partial protection to IE from certain web-based exploits and blocks most advertising you would otherwise be subjected to on the internet.
+Block unwanted websites. The provided files ([http://someonewhocares.org/hosts/](from http://someonewhocares.org/hosts/)) prevent your computer from connecting to selected internet hosts. This is an easy and effective way to protect you from many types of spyware, reduces bandwidth use, blocks certain pop-up traps, prevents user tracking by way of *web bugs* embedded in spam, provides partial protection to IE from certain web-based exploits and blocks most advertising you would otherwise be subjected to on the internet.
 
 Add unwanted sites
 ------------------
@@ -15,8 +15,10 @@ There are two versions, one that uses 0.0.0.0 and the other 127.0.0.1. On some m
 
 This file must be saved as a text file with no extension.
 
-Correct: hosts
-Wrong: hosts.txt
+<table>
+<tr><th>Correct</th><th>Wrong</th></tr>
+<tr><td>hosts</td><td>hosts.txt</td></tr>
+</table>
 
 If you use the zero or any mac version of the hosts file, just remove the file extension! On newer macs with OS X use hosts or hosts.zero instead of hosts.mac or hosts.zero.mac. And don't forget to remove any file extension.
 
@@ -69,10 +71,10 @@ Where to place the hosts file?
 Notes
 -----
 
-* In Windows you may have to use Notepad and "Run as Administrator".
-* In Linux, Unix and Mac OS X you will require root access. Saving the file to "~/hosts" will allow you to run something like "sudo cp ~/hosts /etc/hosts".
+* In Windows you may have to use Notepad and *Run as Administrator*.
+* In Linux, Unix and Mac OS X you will require root access. Saving the file to ```~/hosts``` will allow you to run something like ```sudo cp ~/hosts /etc/hosts```.
 * Ubuntu users who experience trouble with apt-get should consult the [Ubuntu Forums](http://ubuntuforums.org/archive/index.php/t-613521.html).
-* In OS/2 ensure that in the CONFIG.SYS file this line is included: "SET USE_HOSTS_FIRST=1"
-* For Macintosh (pre OS X) place it in the Mac System Folder or Preferences folder something like "HD:System Folder:Preferences:Hosts" and reboot. Alternatively you can save it elsewhere on your machine, then go to the TCP/IP control panel and click on "Select hosts file" to read it in.
+* In OS/2 ensure that in the CONFIG.SYS file this line is included: ```SET USE_HOSTS_FIRST=1```
+* For Macintosh (pre OS X) place it in the Mac System Folder or Preferences folder something like ```HD:System Folder:Preferences:Hosts``` and reboot. Alternatively you can save it elsewhere on your machine, then go to the TCP/IP control panel and click on *Select hosts file* to read it in.
 * To convert the hosts file to a set of Cisco IOS commands for Cisco routers use [Jesse Baird's script](http://jebaird.com/blog/hosts-ip-host-generating-blocked-hosts-host-file-cisco-router)
 
